@@ -10,7 +10,7 @@
     - Java
 - 📫 How to reach me: [**Email Me**](mailto:theprogrammernoureldinosama@gmail.com), [**LinkedIn**](https://www.linkedin.com/in/NourEldin-Osama), [**Twitter**](https://twitter.com/NOURELDIN_0SAMA)!
 
-<a href="mailto:theprogrammernoureldinosama@gmail.com">![theprogrammernoureldinosama@gmail.com](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_rtl_r2.png)</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=theprogrammernoureldinosama@gmail.com%40gmail.com">![theprogrammernoureldinosama@gmail.com](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_rtl_r2.png)</a>
 
 ### My Github stats:
 ![NourEldin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NourEldin-Osama&hide=prs,issues,contribs&show_icons=true&theme=cobalt&hide_rank=true&include_all_commits=true&show_owner=true)
