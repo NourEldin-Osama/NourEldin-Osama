@@ -1,3 +1,6 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NourEldin-Osama.NourEldin-Osama)
+![Twitter Follow](https://img.shields.io/twitter/follow/NOURELDIN_0SAMA?style=social)
+[![Linkedin: NourEldin-Osama](https://img.shields.io/badge/-NourEldin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/NourEldin-Osama/)](https://www.linkedin.com/in/NourEldin-Osama/)
 ### 👋 Hi, I’m @NourEldin-Osama
 
 - 🌱 I’m currently learning Machine Learning
