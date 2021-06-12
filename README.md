@@ -8,7 +8,7 @@
     - Python
     - C++ (Cpp)
     - Java
-- 📫 How to reach me: [**Email Me**](theprogrammernoureldinosama@gmail.com), [**LinkedIn**](https://www.linkedin.com/in/NourEldin-Osama), [**Twitter**](https://twitter.com/NOURELDIN_0SAMA)!
+- 📫 How to reach me: [**Email Me**](mailto:theprogrammernoureldinosama@gmail.com), [**LinkedIn**](https://www.linkedin.com/in/NourEldin-Osama), [**Twitter**](https://twitter.com/NOURELDIN_0SAMA)!
 
 <a href="mailto:theprogrammernoureldinosama@gmail.com">![theprogrammernoureldinosama@gmail.com](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_rtl_r2.png)</a>
 
