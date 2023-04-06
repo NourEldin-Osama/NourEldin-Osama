@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/noureldin_0sama" target="blank"><img src="https://img.shields.io/twitter/follow/noureldin_0sama?logo=twitter&style=for-the-badge" alt="noureldin_0sama" /></a> </p>
 
-- 🔭 I’m currently working on [Campus-Portal](https://github.com/NourEldin-Osama/Campus-Portal)
+- 🔭 I’m currently working on [Graduation-Project](https://github.com/NourEldin-Osama/Graduation-Project)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
